@@ -1,16 +1,6 @@
 ---
-layout: archive
-title: "Publications"
 permalink: /publications/
-author_profile: true
+title: "Publications"
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Paul Logasa, Bogen II, Daniel, Pogue, Yuanling, Li, Faryaneh, Pourdardar, Frank, Shipman, Richard, Furuta. “WPv4: A Re-imagined Walden’s Paths to Support Diverse User Communities”. In Proceedings of the 1st International Conference on Theory and Practice of Digital Libraries (TPDL), Berlin, Germany, 2011
