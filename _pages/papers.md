@@ -3,7 +3,7 @@ permalink:  /papers/
 title: "Publications"
 ---
 Faryaneh, Poursardar, and Frank Shipman. “How Perceptions of Web Resource Boundaries Differ for Institutional and Personal Archives”, In Proceedings of the 19th IEEE International Conference on Information Reuse and Integration for Data Science (IRI 2018), pp. 126-129, 2018.
-#![PDF](pdf.jfif)
+
 
 “What is Part of that Resource? Use Expectations for Personal Archiving”, Faryaneh, Poursardar, and Frank Shipman. In Proceedings of the 17th ACM/IEEE-CS Joint Conference on Digital libraries (JCDL), pp. 229-232, 2017.
 
