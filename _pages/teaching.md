@@ -6,12 +6,12 @@ title: "Teaching"
 
 <ins>**Old Dominion University**</ins>
 
-CS 625: Data Visualization, Spring 2022\
-CS 432/532: Web Science, Fall 2022 (expected)\
-CS 115: Introduction to CS with Python, Fall 2021, Spring 2022 (**_New Course_**: Designer and Instructor)\
+CS 625: Data Visualization, Spring 2022, Fall 2022\
+CS 432/532: Web Science, Fall 2022\
+CS 115: Introduction to CS with Python, Fall 2021, Spring 2022, Fall 2022 (**_New Course_**: Designer and Instructor)\
 CS 330: Object Oriented Programming and Design, Spring 2021, Fall 2021\
 CS 250: Problem Solving and Programming II, Fall 2020, Spring 2021, Spring 2022\
-CS 150: Problem Solving and Programming I, Fall 2020, Spring 2021, Fall 2021, Spring 2022 
+CS 150: Problem Solving and Programming I, Fall 2020, Spring 2021, Fall 2021, Spring 2022, Fall 2022 
 
 <ins>**Christopher Newport University**</ins>
 

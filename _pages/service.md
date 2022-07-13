@@ -7,7 +7,7 @@ title: "Service"
   * (JCDL) ACM/IEEE-CS Joint Conference on Digital Libraries
 
 #### Program Committee Member:
-  * (CAPWIC 2022) ACM Capital Region Celebration of Women in Computing, (will be hold in March) 2022
+  * (CAPWIC 2022) ACM Capital Region Celebration of Women in Computing, 2022
   * (CAPWIC 2021) ACM Capital Region Celebration of Women in Computing, 2021
   * (CAPWIC 2020) ACM Capital Region Celebration of Women in Computing, 2020
   * ([CAE](http://www.ActivityEngineering.org) 2020) Content & Activity Engineering 2020 
@@ -32,7 +32,7 @@ title: "Service"
  * (CAPWIC 2020) ACM Capital Region Celebration of Women in Computing, 2020
 
 #### Poster Chair:
-  * (CAPWIC 2021) ACM Capital Region Celebration of Women in Computing, 2021
+  * (CAPWIC 2021, 22) ACM Capital Region Celebration of Women in Computing, 2021 - 2022
   * ([GCAIoT](https://gcaiot.org/home) 2020) IEEE Global Conference on Artificial Intelligence & Internet of Things, 2020 
 
 

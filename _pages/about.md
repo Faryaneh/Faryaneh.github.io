@@ -21,6 +21,12 @@ Undergraduate (and graduate) students who would like to work with me, please fee
 
 News
 ------
+April 2022: Received ODU Faculty Development Research Fund   
+
+March 2022: Received ODU Libraries’ Faculty Research Grant
+
+January 2022: Received ODU Faculty Innovator Grant 
+
 September 2021: Received COVA CCI CyberExL Grant
 
 August 2021: Received NASA@ My Library Grant
