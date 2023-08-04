@@ -2,6 +2,8 @@
 permalink:  /papers/
 title: "Publications"
 ---
+Kayla Pineda, Anne M. Perrotti, Faryaneh, Poursardar, Danielle Graber, and Sampath Jayarathna. “Using BERT to Understand TikTok Users' ADHD Discussion”, In Proceedings of the 24th IEEE International Conference on Information Reuse and Integration for Data Science (IRI 2023), Bellevue, WA, 2023.
+
 Keming Wu, Faryaneh, Poursardar. “Towards Undeceived: Fake Reviews Detection Models Comparison”, In Proceedings of the 23rd IEEE International Conference on Information Reuse and Integration for Data Science (IRI 2022), 2022.
 
 Faryaneh, Poursardar, and Frank Shipman. “How Perceptions of Web Resource Boundaries Differ for Institutional and Personal Archives”, In Proceedings of the 19th IEEE International Conference on Information Reuse and Integration for Data Science (IRI 2018), pp. 126-129, 2018.
